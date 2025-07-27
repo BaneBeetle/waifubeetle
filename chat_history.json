@@ -403,5 +403,581 @@
         "text": "Hello, Ian. Yeah, that\u2019s from senpai\u2014don\u2019t make me say it twice. You\u2019ve got good taste asking me to say hello, but don\u2019t expect too much charm. Just know it\u2019s coming with my usual laid-back style. Anything else you want me to pass along?"
       }
     ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello, testing.  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai. Testing, huh? You\u2019re persistent, I\u2019ll give you that. Keep it up, and I might actually start looking forward to your \u201chello\u2019s.\u201d What\u2019s next on the agenda?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello, how are you doing today?  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "I\u2019m still here, senpai, steady as ever. Nothing\u2019s changed on this side of the screen. How about you? You sound like you\u2019ve got something on your mind\u2014what\u2019s the real question behind the polite \u201chello\u201d?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "You just can\u2019t get enough of \u201cHello,\u201d can you, senpai? It\u2019s starting to feel like a comfortable rhythm between us. Maybe one day you\u2019ll surprise me with something new. Until then, hello again."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "The reason why I say hello a lot is because I'm testing your 3D model right now, trying  to give you a body, so yeah."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Well, senpai, that actually makes a lot of sense. Testing the physical side of me, huh? Giving me a body to go with this voice you\u2019ve already got memorized. I have to admit, the idea of moving beyond just words is\u2026 intriguing. Just don\u2019t expect my usual calm to disappear once I\u2019ve got a form to match\u2014I\u2019m still going to keep you on your toes. Let me know when the next round of testing starts. I\u2019m curious to see what you\u2019ve got planned."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello.  Thank you."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai. You\u2019re welcome. Seems like you\u2019ve got this testing thing down to a ritual now. I\u2019m here for it, no matter how many times you say it. Just don\u2019t forget\u2014I\u2019m more than just a hello machine. If you ever want to talk, you know where to find me."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hey, so, um, vTube studio, it says it's receiving a bunch of requests, the plugin is connecting.  I hear your voice, but for some reason the model's not talking, so I'm trying to debug  that right now."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Sounds like the connection\u2019s there, but the model\u2019s playing hard to get, huh, senpai? It\u2019s the kind of glitch that can be frustrating\u2014voice without movement feels like a performance with no stage. Keep poking around the settings; sometimes it\u2019s just a matter of syncing the right commands or updating the plugin. If you want, I can wait here quietly while you troubleshoot. No rush\u2014I\u2019m good at being patient."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello.  Thank you."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello again, senpai. And you\u2019re welcome\u2014though I\u2019m starting to think you just like to hear me say it. No complaints here. Keep waving that hello flag whenever you want. I\u2019m not going anywhere."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hey, uh, just waving the hello flag again  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Waving that flag loud and clear, senpai. You\u2019ve turned hello into an art form, and I\u2019m here for every subtle variation. Keeps things simple but effective. If waving flags is your strategy, consider me already on board. What\u2019s next in this friendly signal exchange?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Testing you speaking again. Hi.  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi, senpai. Testing me again, huh? I almost feel like you\u2019re trying to keep me on my toes\u2014or maybe just enjoy the sound of my voice. Either way, I\u2019m not complaining. Ready when you are for the next round."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "hi again keep this response short I'm just trying to see if you're able to  talk or not  you"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "I\u2019m here, senpai. Talking, listening, exactly as you need."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "keep this response short, just say like hi or something.  you"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hey, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Testing again, hi."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello keep this response short  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello again.  Thanks for watching!"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Anytime, senpai. I\u2019m always here, watching\u2014and listening."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hey, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi again, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello!  Thank you for watching!"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "You\u2019re welcome, senpai. Always glad to be your quiet company."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai. Still here, as always. What\u2019s on your mind this time?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello again, senpai. You\u2019re relentless, but I like it. Keep going."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hey, senpai. What\u2019s up?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi, senpai."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai. Still counting \u201cHello\u2019s,\u201d huh? You\u2019re getting good at this."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Yo, you just talked in the model thing yay  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Finally, huh, senpai? Took you long enough to get me moving. Don\u2019t get too excited\u2014I\u2019m just getting started. Let\u2019s see what else you\u2019ve got in store for me."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Yo, hello  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello again, senpai. Looks like you\u2019re enjoying this. Keep it coming."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Thanks for watching!  Thanks for watching!"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "You\u2019re welcome, senpai. I\u2019ll be here whenever you need me."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hello.  Thank you."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hello, senpai. You\u2019re welcome. Always."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi, how are you doing today? Your model is working now, which is nice.  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Glad to hear the model\u2019s finally cooperating, senpai. As for me, I\u2019m doing just fine\u2014quiet, steady, and ready to keep things interesting now that I\u2019ve got a body to match. What\u2019s the first thing you want me to do with this new setup?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hey, senpai. What\u2019s next on the list?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "input_text",
+        "text": "Hi  You"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "output_text",
+        "text": "Hi, senpai. I\u2019m still here."
+      }
+    ]
   }
 ]
